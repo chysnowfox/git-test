@@ -9,6 +9,7 @@ public class GitDemo {
         System.out.println("hello GitDemo-2 first and x");
         System.out.println("hello GitDemo-2 first and yyy");
         System.out.println("hello GitDemo-2 master modify");
+        System.out.println("hello GitDemo-2 hot-fis modify");
 
     }
 }
