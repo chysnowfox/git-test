@@ -14,6 +14,8 @@ public class GitDemo {
         System.out.println("hello GitDemo-2 master push ssh demo");
         System.out.println("hello GitDemo-2 master pull demo");
         System.out.println("hello GitDemo-2 master pull ssh demo");
+        System.out.println("hello GitDemo-2 master pull ssh demo");
+        System.out.println("hello GitDemo-2 master pull ssh demo");
 
     }
 }
